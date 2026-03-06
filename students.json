@@ -1,0 +1,23 @@
+[
+  {
+    "student": 1,
+    "studentOddOrEven": "Student PK is Odd",
+    "studentId": "S868685",
+    "average": 149.00,
+    "grade": "Distinction"
+  },
+  {
+    "student": 2,
+    "studentOddOrEven": "Student PK is Even",
+    "studentId": "S345634",
+    "average": 361.25,
+    "grade": "Distinction"
+  },
+  {
+    "student": 3,
+    "studentOddOrEven": "Student PK is Odd",
+    "studentId": "S342335",
+    "average": 2323.20,
+    "grade": "Distinction"
+  }
+]
